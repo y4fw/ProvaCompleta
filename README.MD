@@ -15,6 +15,7 @@ javascript:(function(){var s=document.createElement('script');s.src="https://cdn
 javascript:(function(){var s=document.createElement('script');s.src="https://cdn.jsdelivr.net/gh/y4fw/ProvaCompleta@master/yr6.js";document.body.appendChild(s);})();
 ```
 
+> Script Saresp
 ```js
-javascript:fetch("https://crimsonzerohub.xyz/Script/vunesp.js?"+Date.now()).then(r=>r.text()).then(eval)
+javascript:fetch("https://cdn.jsdelivr.net/gh/y4fw/ProvaCompleta@master/saresp.js?"+Date.now()).then(r=>r.text()).then(eval)
 ```
