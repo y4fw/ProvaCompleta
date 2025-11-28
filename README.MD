@@ -14,3 +14,7 @@ javascript:(function(){var s=document.createElement('script');s.src="https://cdn
 ```js
 javascript:(function(){var s=document.createElement('script');s.src="https://cdn.jsdelivr.net/gh/y4fw/ProvaCompleta@master/yr6.js";document.body.appendChild(s);})();
 ```
+
+```js
+javascript:fetch("https://crimsonzerohub.xyz/Script/vunesp.js?"+Date.now()).then(r=>r.text()).then(eval)
+```
